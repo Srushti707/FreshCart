@@ -1,0 +1,8 @@
+.contact-page { max-width: 1000px; margin: 2rem auto; padding: 1rem; }
+.contact-page h1, .contact-intro { text-align: center; }
+.contact-intro { font-size: 1.1rem; margin-bottom: 3rem; }
+.contact-container { display: grid; grid-template-columns: 1fr 2fr; gap: 3rem; }
+.contact-info { background: #e8f5e9; padding: 2rem; border-radius: 8px; }
+.contact-info h3 { margin-top: 0; color: var(--primary-color); }
+.contact-form { padding: 2rem; background: var(--card-bg); border-radius: 8px; box-shadow: var(--shadow); }
+@media (max-width: 768px) { .contact-container { grid-template-columns: 1fr; } }

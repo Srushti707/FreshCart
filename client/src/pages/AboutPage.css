@@ -1,0 +1,36 @@
+.about-page {
+    max-width: 900px;
+    margin: 2rem auto;
+    padding: 1rem;
+}
+
+.about-hero {
+    text-align: center;
+    padding: 4rem 2rem;
+    background-image: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url('https://images.unsplash.com/photo-1542838132-92c53300491e?q=80&w=1974');
+    background-size: cover;
+    background-position: center;
+    color: white;
+    border-radius: 8px;
+    margin-bottom: 3rem;
+}
+
+.about-hero h1 {
+    font-size: 3rem;
+    margin: 0;
+}
+
+.about-content h2 {
+    font-size: 2rem;
+    color: var(--primary-color);
+    border-bottom: 2px solid var(--secondary-color);
+    display: inline-block;
+    margin-bottom: 1rem;
+    padding-bottom: 0.5rem;
+}
+
+.about-content p {
+    font-size: 1.1rem;
+    line-height: 1.8;
+    margin-bottom: 2rem;
+}
