@@ -35,7 +35,7 @@ FreshCart is a modern, responsive e-commerce web application built from the grou
 * MongoDB installed and running locally.
 
 **1. Clone the Repository**
-git clone [https://github.com/your-username/freshcart.git](https://github.com/your-username/freshcart.git)
+git clone [https://github.com/your-username/freshcart.git](https://github.com/Srushti707/FreshCart.git)
 cd freshcart
 
 **2. Backend Setup**
